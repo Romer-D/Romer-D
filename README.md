@@ -1,8 +1,9 @@
 👋 Hi, I’m Romer. Here's my brief bio:
 
-I've been working with data for a good 10+ years.
-Currently functions as the Global Business Intelligence resource of a SaaS business which generates $700M sales a year.
-I am open to opportunities in the data space.
+- I've been working with data for a good 10+ years.
+- Currently functions as the Global Business Intelligence resource of a SaaS business which generates $700M sales a year.
+- I am open to opportunities in the data space.
+
 
 
 <!---

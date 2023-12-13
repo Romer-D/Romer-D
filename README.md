@@ -1,6 +1,10 @@
-👋 Hi, I’m Romer
+👋 Hi, I’m Romer. Here's my brief bio:
 
-I've been working with PLs, scripts, data and macros at work for a good 10+ years but actually new to github.
+I've been working with data for a good 10+ years.
+Currently functions as the Global Business Intelligence resource of a SaaS business which generates $700M sales a year.
+I am open to opportunities in the data space.
+
+
 <!---
 Romer-D/Romer-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

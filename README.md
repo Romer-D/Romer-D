@@ -2,7 +2,7 @@
 
 - I've been working with data for a good 10+ years.
 - Currently the Global Business Intelligence resource of a SaaS business that generates $700M sales a year.
-- I am open to opportunities in the data space.
+- I am open to opportunities in the data space. Let's connect!
 
 
 

@@ -2,7 +2,8 @@
 
 - I've been working with data for a good 10+ years. Always enjoyed the coding and problem solving aspect of the data world. 
 - Global Lead BI resource of a SaaS business that generates $700M sales a year.
-- I deliver insights any analysis to stakeholders to steer their business to the right direction.
+- Advise on/and produce business insights and analysis to stakeholders to steer towards their KPIs and targets.
+- [I'm an inline-style link](https://www.google.com)
 
 This is an attempt at collating things I learned over the years in a portfolio format. Questions? Let's connect! 
 <!---

@@ -9,7 +9,7 @@ This is an attempt at collating things I learned over the years in a portfolio f
 - I am open to opportunities in the data space. Let's connect!
 --->
 
-- [LinkedIn]([https://www.google.com](https://www.linkedin.com/in/romerd/))
+- [LinkedIn](https://www.google.com](https://www.linkedin.com/in/romerd/)
 
 
 <!---

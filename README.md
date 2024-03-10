@@ -4,10 +4,7 @@
 - Global Lead BI resource of a SaaS business that generates $700M sales a year.
 - Advise on/and produce business insights and analysis to stakeholders to steer towards their KPIs and targets.
 
-This is an attempt at collating things I learned over the years in a portfolio format. Questions?  
-<!---
-- I am open to opportunities in the data space. Let's connect!
---->
+This is a collection of things I learned over the years in a portfolio format.
 
 ### Let's connect!
 

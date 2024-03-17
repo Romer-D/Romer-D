@@ -9,7 +9,7 @@ This is a collection of things I learned over the years in a portfolio format.
 
 ### Let's connect!
 
-- [LinkedIn](https://www.linkedin.com/in/romerd/)
+<!-- [LinkedIn](https://www.linkedin.com/in/romerd/)
 
 
 <!---

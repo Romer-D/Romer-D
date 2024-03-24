@@ -4,6 +4,7 @@
 - Global Lead BI resource of a SaaS business that generates $700M sales a year.
 - I advise on/and produce business insights and analysis for stakeholders to steer towards meeting KPIs and targets.
 - I've mentored and trained BI colleagues in delivering insights to stakeholders from ground up.
+  
 :open_file_folder: Here I try to collect and organize the things I learned over the years in a portfolio format.
 
 ### :heavy_check_mark: Tech Stack

@@ -8,7 +8,7 @@
   
 :open_file_folder: Here I try to collect and organize the things I learned over the years in a portfolio format.
 
-### :heavy_check_mark: Technologies/Techiniques I've worked with
+### :heavy_check_mark: Technologies/Techniques I've worked with
 
 - Data/Sources: PostgreSQL, MS SQL Server Reporting Services, Avaya CMS, SAP Business Objects, SFDC, Google PLX, 
 - Data Processing: MS Excel/Office, Google Cloud Apps, Python(Pandas,Numpy,Seaborn), Power Automate, Power Query, VBA Macros
@@ -17,7 +17,7 @@
 - Statistics: R, R-Studio
 - Analytics Path: A/B Testing, ETL, Data Visualization, Stakeholder Management, Data Modelling, Data Life Cycle
 
-### :heavy_check_mark: Relevant Trainings I've Finished
+### :heavy_check_mark: Relevant Trainings
 
 - [SuperDataScience](https://www.superdatascience.com/) Data Science, Power BI and Python Certification - Aug 2017
 - Concentrix Lean Six Sigma Professional Certificate - 2019

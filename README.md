@@ -4,8 +4,17 @@
 - Global Lead BI resource of a SaaS business that generates $700M sales a year.
 - Advise on/and produce business insights and analysis for stakeholders to steer towards KPIs and targets.
 - Mentored and trained BI colleagues in producing and delivering insights to stakeholders.
+- 
 
 This is a collection of things I learned over the years in a portfolio format.
+
+### Tech Stack
+:heavy_check_mark: Data/Sources: PostgreSQL, MS SQL Server Reporting Services, Avaya CMS, SAP Business Objects, SFDC
+:heavy_check_mark: Data Processing: MS Excel, Google Cloud Apps, Python, Power Automate, Power Query, VBA Macros
+:heavy_check_mark: Visualization: Power BI, Tableau, Google Looker Studio
+:heavy_check_mark: Coding: Jupyter Notebooks, GitHub
+:heavy_check_mark: Statistics: R 
+
 
 ### Let's connect!
 

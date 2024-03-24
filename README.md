@@ -7,9 +7,9 @@
 
 This is a collection of things I learned over the years in a portfolio format.
 
-#### Let's connect!
+### Let's connect!
 
-[LinkedIn](https://www.linkedin.com/in/romerd/)
+:raising_hand_man: [LinkedIn](https://www.linkedin.com/in/romerd/)
 
 
 <!---

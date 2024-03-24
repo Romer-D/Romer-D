@@ -17,9 +17,9 @@ This is a collection of things I learned over the years in a portfolio format.
 - Statistics: R 
 
 
-### Let's connect!
+### :raising_hand_man: Let's connect!
 
-:raising_hand_man: [LinkedIn](https://www.linkedin.com/in/romerd/)
+- [LinkedIn](https://www.linkedin.com/in/romerd/)
 
 
 <!---

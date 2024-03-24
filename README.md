@@ -17,7 +17,7 @@
 - Statistics: R, R-Studio
 - Analytics Path: A/B Testing, ETL, Data Visualization, Stakeholder Management, Data Modelling, Data Life Cycle
 
-### :muscle: Relevant Trainings
+### :point_right: Relevant Trainings
 
 - [SuperDataScience](https://www.superdatascience.com/) Data Science, Power BI and Python Certification - Aug 2017
 - Concentrix Lean Six Sigma Professional Certificate - 2019

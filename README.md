@@ -4,7 +4,7 @@
 - Global Lead BI resource of a SaaS business that generates $700M sales a year.
 - I advise on/and produce business insights and analysis for stakeholders to steer towards meeting KPIs and targets.
 - I've mentored and trained BI colleagues in delivering insights to stakeholders from ground up.
-- I am always in the middle of an RPG game, taking an online course and reading a book. Right now those are: :video_game: Elden Ring, :book: [Google Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) and :books: Lives of the Stoics.
+- I am always in the middle of an RPG game, taking an online course and reading a book. Right now those are: :video_game: [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/), :book: [Google Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) and :books: [Lives of the Stoics](https://www.goodreads.com/book/show/50484473-lives-of-the-stoics).
   
 :open_file_folder: Here I try to collect and organize the things I learned over the years in a portfolio format.
 

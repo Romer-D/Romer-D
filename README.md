@@ -8,12 +8,12 @@
 
 This is a collection of things I learned over the years in a portfolio format.
 
-:heavy_check_mark: ### Tech Stack
+### :heavy_check_mark: Tech Stack
 
-Data/Sources: PostgreSQL, MS SQL Server Reporting Services, Avaya CMS, SAP Business Objects, SFDC
-Data Processing: MS Excel, Google Cloud Apps, Python, Power Automate, Power Query, VBA Macros
-Visualization: Power BI, Tableau, Google Looker Studio
-Coding: Jupyter Notebooks, GitHub
+Data/Sources: PostgreSQL, MS SQL Server Reporting Services, Avaya CMS, SAP Business Objects, SFDC<br/>
+Data Processing: MS Excel, Google Cloud Apps, Python, Power Automate, Power Query, VBA Macros<br/>
+Visualization: Power BI, Tableau, Google Looker Studio<br/>
+Coding: Jupyter Notebooks, GitHub<br/>
 Statistics: R 
 
 

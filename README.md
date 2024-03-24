@@ -1,12 +1,10 @@
-👋 Hi, I’m Romer. Here's my brief bio:
+### 👋 Hi, I’m Romer. Here's my brief bio:
 
-- I've been working with data for a good 10+ years. Always enjoyed the coding and problem solving aspect of the data world. 
+- I've been working with data for a good 10+ years. Always enjoyed the challenge of coding and problem solving aspect of the data world. 
 - Global Lead BI resource of a SaaS business that generates $700M sales a year.
-- Advise on/and produce business insights and analysis for stakeholders to steer towards KPIs and targets.
-- Mentored and trained BI colleagues in producing and delivering insights to stakeholders.
-- 
-
-This is a collection of things I learned over the years in a portfolio format.
+- I advise on/and produce business insights and analysis for stakeholders to steer towards meeting KPIs and targets.
+- I've mentored and trained BI colleagues in delivering insights to stakeholders from ground up.
+- :open_file_folder: Here I try to collect and organize the things I learned over the years in a portfolio format.
 
 ### :heavy_check_mark: Tech Stack
 

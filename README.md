@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Romer. Here's my brief bio:
 
-- I've been working with data for a good 10+ years. Always enjoyed the challenge of coding and problem solving aspect of the data world. 
-- Global Lead BI resource of a SaaS business that generates $700M sales a year.
+- I've been working with data for a good 10+ years. Always liked the challenge of coding and problem solving aspect of the data world. 
+- Currently Global Lead BI resource of a SaaS business that generates $700M sales a year.
 - I advise on/and produce business insights and analysis for stakeholders to steer towards meeting KPIs and targets.
 - I've mentored and trained BI colleagues in delivering insights to stakeholders from ground up.
 - I am always in the middle of an RPG game, taking an online course and reading a book. Right now those are: :video_game: [Elden Ring](https://store.steampowered.com/app/1245620/ELDEN_RING/), :book: [Google Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) and :books: [Lives of the Stoics](https://www.goodreads.com/book/show/50484473-lives-of-the-stoics).

@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Romer. Here's my brief bio:
 
-- I've been working with data for a good 10+ years. Always liked the challenge of coding and problem solving aspect of the data world. 
+- I've been working with data for a good 10+ years. Always loved the coding and problem solving aspect of the data world. 
 - Global Lead BI resource of a SaaS business that generates $700M sales a year and a search engine that needs no introduction.
 - I advise on/and produce business insights and analysis for stakeholders to steer towards meeting KPIs and targets.
 - I've mentored and trained BI colleagues in delivering insights to stakeholders from ground up.

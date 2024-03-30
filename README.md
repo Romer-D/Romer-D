@@ -31,6 +31,7 @@
 ### :raising_hand_man: Let's connect!
 
 - [LinkedIn](https://www.linkedin.com/in/romerd/)
+- [LeetCode](https://leetcode.com/romerduarte/)
 
 
 <!---

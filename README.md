@@ -23,9 +23,6 @@
 - Concentrix Lean Six Sigma Professional Certificate - 2019
 - [DAP Project Sparta PH](https://sparta.dap.edu.ph/) Data Visualization and Operational Analytics Micro-specialization - Aug 2023 – Oct 2023
 - [Google](https://www.coursera.org/professional-certificates/google-data-analytics) Data Analytics Professional Certificate - Mar 2024
-- [Google](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) Advanced Data Analytics Professional Certificate - ***Mar 2024 – ongoing***
-- [Google](https://www.coursera.org/professional-certificates/google-business-intelligence) Business Intelligence Professional Certificate - ***Mar 2024 – ongoing***
-- [DAP Project Sparta PH](https://sparta.dap.edu.ph/) Data Scientist Specialization - ***Mar 2024 – ongoing*** 
 
 
 ### :raising_hand_man: Let's connect!

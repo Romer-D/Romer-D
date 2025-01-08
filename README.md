@@ -6,8 +6,6 @@
 - I've mentored and trained BI colleagues in delivering insights to stakeholders from ground up.
 - I am always in the middle of an RPG game, taking an online course and reading a book. Right now those are: :video_game: [Horizon Forbidden West](https://store.steampowered.com/app/2420110/Horizon_Forbidden_West_Complete_Edition/), :book: [Google Advanced Data Analytics](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) and :books: [Lives of the Stoics](https://www.goodreads.com/book/show/50484473-lives-of-the-stoics).
   
-:open_file_folder: Here I try to collect and organize the things I learned over the years in a portfolio format.
-
 ### :heavy_check_mark: Technologies/Methods I've worked with
 
 - Data/Sources: PostgreSQL, MS SQL Server Reporting Services, Avaya CMS, SAP Business Objects, SFDC, Google PLX, 

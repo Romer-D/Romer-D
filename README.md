@@ -10,7 +10,7 @@
 
 - Data/Sources: PostgreSQL, MS SQL Server Reporting Services, Avaya CMS, SAP Business Objects, SFDC, Google PLX 
 - Data Processing: MS Excel/Office, Google Cloud Apps, Python(Pandas,Numpy,Seaborn), Power Automate, Power Query, VBA Macros
-- Visualization: Power BI, Tableau, Google Looker Studio 
+- Visualization: Power BI, Tableau, Google Looker Studio, Grafana, Zoho Analytics 
 - Coding: Jupyter Notebooks, GitHub
 - Statistics: R, R-Studio
 - Analytics Path: A/B Testing, ETL, Data Visualization, Stakeholder Management, Data Modelling, Data Life Cycle
